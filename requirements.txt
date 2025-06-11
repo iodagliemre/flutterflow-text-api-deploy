@@ -1,0 +1,6 @@
+flask
+pytesseract
+pdfplumber
+Pillow
+requests
+
